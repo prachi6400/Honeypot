@@ -1,4 +1,16 @@
-HONEYPOT
+HONEYPOT:
 1. wget http://downloads.sourceforge.net/project/pentbox18realised/pentbox-1.8.tar.gz 
-2. tar xvfz pentbox-1.8.tar.gz
+2. tar xvfz pentbox-1.8.tar.gz (not a link)
+
+Trivy: 
+1st) wget https://github.com/aquasecurity/trivy/releases/download/v0.66.0/trivy_0.66.0_Linux-64bit.deb
+
+2rd) sudo dpkg -i trivy_0.66.0_Linux-64bit.deb
+
+Reverse Enginnering:
+https://www.zarchiver.pro/zarchiver-download/
+https://www.snaptube.com/download-snaptube/
+
+
+
 
